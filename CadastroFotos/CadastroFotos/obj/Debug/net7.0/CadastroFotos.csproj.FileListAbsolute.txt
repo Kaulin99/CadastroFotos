@@ -1,0 +1,7 @@
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.AssemblyInfoInputs.cache
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.AssemblyInfo.cs
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.csproj.CoreCompileInputs.cache
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.MvcApplicationPartsAssemblyInfo.cache
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.RazorAssemblyInfo.cache
+Z:\EC5 escola\Linguagem de programação 1\fotos\CadastroFotos\CadastroFotos\obj\Debug\net7.0\CadastroFotos.RazorAssemblyInfo.cs
