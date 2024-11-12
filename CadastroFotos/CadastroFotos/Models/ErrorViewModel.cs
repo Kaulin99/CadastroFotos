@@ -1,4 +1,4 @@
-namespace PizzaMVC.Models
+namespace CadastroFotos.Models
 {
     public class ErrorViewModel
     {
