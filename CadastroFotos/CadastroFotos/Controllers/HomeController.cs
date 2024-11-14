@@ -1,6 +1,7 @@
 ﻿using CadastroFotos.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace CadastroFotos.Controllers
@@ -35,7 +36,7 @@ namespace CadastroFotos.Controllers
         public override void OnActionExecuting(ActionExecutingContext context)
         {
             if (!HelperControllers.VerificaUserLogado(HttpContext.Session))
-                context.Result = RedirectToAction("Index", "Login");
+                context.Result = RedirectToAction("Index", "Usuario");
             else
             {
                 ViewBag.Logado = true;

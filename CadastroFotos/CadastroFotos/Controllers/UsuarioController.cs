@@ -1,5 +1,4 @@
-﻿using CadastroFotos.DAO;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace CadastroFotos.Controllers
 {
